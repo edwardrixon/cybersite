@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b7d39d8-d826-42d1-ad42-391d94a7a294/deploy-status)](https://app.netlify.com/sites/exquisite-figolla-9a44e4/deploys)
+
+
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Hugo](https://gohugo.io) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
